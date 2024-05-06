@@ -1,0 +1,5 @@
+package com.hall.booking.model;
+
+public class Book {
+
+}

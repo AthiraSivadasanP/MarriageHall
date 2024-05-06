@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.util.StringUtils"/>
+    <fullyQualifiedTypeName name="com.hall.booking.model.MarriageHall"/>
+    <fullyQualifiedTypeName name="com.hall.booking.repository.MarriageHallRepository"/>
+    <fullyQualifiedTypeName name="org.apache.tomcat.util.http.fileupload.FileUpload"/>
+</qualifiedTypeNameHistroy>

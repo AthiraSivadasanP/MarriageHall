@@ -1,0 +1,5 @@
+package com.hall.booking.repository;
+
+public class BookRepository {
+
+}
